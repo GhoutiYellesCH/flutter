@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295604976967",
+    "project_id": "meetmed-99854",
+    "storage_bucket": "meetmed-99854.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295604976967:android:ae89082da5ff22d3fa6062",
+        "android_client_info": {
+          "package_name": "com.meetmed.meetmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5x-3JZK23P2HfztU-wicD3qhAVsOl5yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
